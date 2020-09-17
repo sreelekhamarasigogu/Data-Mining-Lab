@@ -10,8 +10,8 @@
 @attribute examStatus {pass,fail}
 
 @data
-532,kavya,a,cse,7337246405,fail
-514,kirthana,b,ece,7337246405,pass
-527,uma,c,it,7337246405,pass
-558,megh,a,eee,9515813523,pass
-534,vidya,b,mech,7337246405,pass
+553,Sreelekha,a,cse,9237110357,fail
+528,RaghaVarshini,a,eee,8912841001,pass
+560,KrishnaSiri,b,it,9128331901,pass
+543,Pravalika,a,cse,7780120321,fail
+545,Neelima,b,mech,7780430289,pass
